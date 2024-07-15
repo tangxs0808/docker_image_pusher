@@ -1,3 +1,6 @@
 #支持私库
 xhofe/alist:latest
 fs185085781/webos:latest
+fredliang/derper:latest
+ghcr.io/cedar2025/xboard:latest
+ghcr.io/cedar2025/hysteria:latest
