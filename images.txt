@@ -1,2 +1,3 @@
 #支持私库
 xhofe/alist:latest
+fs185085781/webos:latest
