@@ -3,6 +3,7 @@ xhofe/alist:latest
 fs185085781/webos:latest
 fredliang/derper:latest
 ghcr.io/cedar2025/xboard:latest
+ghcr.io/cedar2025/xboard:14a2a09
 ghcr.io/cedar2025/hysteria:latest
 headscale/headscale:0.23.0-alpha12-debug
 linuxserver/nextcloud:29.0.3
