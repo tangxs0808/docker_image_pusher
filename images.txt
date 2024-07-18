@@ -9,3 +9,4 @@ headscale/headscale:0.23.0-alpha12-debug
 linuxserver/nextcloud:29.0.3
 1panel/openresty:1.21.4.3-3-3-focal
 kodcloud/kodbox:v1.4505
+kodcloud/kodbox:latest
