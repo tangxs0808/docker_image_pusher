@@ -10,4 +10,5 @@
 #1panel/openresty:1.21.4.3-3-3-focal
 #kodcloud/kodbox:v1.4505
 #kodcloud/kodbox:latest
-v03413/bepusdt:latest
+#v03413/bepusdt:latest
+jiangjuhong/dujiaoka:latest
