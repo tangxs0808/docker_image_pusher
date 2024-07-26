@@ -1,6 +1,7 @@
 #支持私库
 #xhofe/alist:v3.36.0
-scavin/ws-scrcpy
+redroid/redroid:14.0.0-latest
+#scavin/ws-scrcpy
 #redroid/redroid:11.0.0-latest
 #fs185085781/webos:latest
 #fredliang/derper:latest
