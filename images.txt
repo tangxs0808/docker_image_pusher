@@ -1,6 +1,6 @@
 #支持私库
 #xhofe/alist:v3.36.0
-library/php:8.3.8-fpm-alpine
+library/php:8.1.29-fpm-alpine
 #metersphere/metersphere-ce-allinone:v3.1.0
 #1panel/openresty:1.21.4.3-3-3-focal
 #library/php:7.4.33-fpm-alpine
