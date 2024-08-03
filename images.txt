@@ -1,7 +1,7 @@
 #支持私库
 #xhofe/alist:v3.36.0
 #library/php:8.1.29-fpm-alpine
-redroid/redroid:12.0.0-latest
+uusec/nanqiang:v5.1.1
 #litespeedtech/openlitespeed:1.8.1-lsphp81
 #caddy
 #metersphere/metersphere-ce-allinone:v3.1.0
