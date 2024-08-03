@@ -1,7 +1,7 @@
 #支持私库
 #xhofe/alist:v3.36.0
 #library/php:8.1.29-fpm-alpine
-sickcodes/dock-droid:latest
+redroid/redroid:11.0.0-latest
 #litespeedtech/openlitespeed:1.8.1-lsphp81
 #caddy
 #metersphere/metersphere-ce-allinone:v3.1.0
