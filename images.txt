@@ -1,7 +1,9 @@
 #支持私库
 #xhofe/alist:v3.36.0
+headscale/headscale:0.23.0-beta1
+ghcr.io/tale/headplane:latest
 #library/php:8.1.29-fpm-alpine
-linuxserver/code-server:4.91.1
+#linuxserver/code-server:4.91.1
 #golang:1.22
 #uusec/nanqiang:v5.1.1
 #litespeedtech/openlitespeed:1.8.1-lsphp81
