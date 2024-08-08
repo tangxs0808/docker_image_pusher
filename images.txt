@@ -1,1 +1,2 @@
-jc21/nginx-proxy-manager:2.11.3
+henrygd/beszel
+henrygd/beszel-agent
