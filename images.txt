@@ -1,2 +1,3 @@
-henrygd/beszel
-henrygd/beszel-agent
+#henrygd/beszel
+#henrygd/beszel-agent
+1dev/server:11.0.2
