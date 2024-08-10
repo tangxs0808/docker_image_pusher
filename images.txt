@@ -1,4 +1,4 @@
 #henrygd/beszel
 #henrygd/beszel-agent
 #1dev/server:11.0.2
-gitea/act_runner:0.2.10
+azul/zulu-openjdk:17-jre
