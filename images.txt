@@ -1,4 +1,4 @@
 #henrygd/beszel
 #henrygd/beszel-agent
 #1dev/server:11.0.2
-1panel/maxkb:v1.4.1
+rustdesk/rustdesk-server-s6:latest
