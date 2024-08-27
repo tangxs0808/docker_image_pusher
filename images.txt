@@ -3,4 +3,4 @@
 #1dev/server:11.0.2
 #headscale/headscale:0.23.0-alpha12
 #redis:7-alpine
-elasticsearch:8.15.0
+elasticsearch:8.7.1
