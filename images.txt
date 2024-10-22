@@ -1,6 +1,6 @@
 #1panel/openresty:1.21.4.3-3-3-focal
-#ghcr.io/open-webui/open-webui:main
+ghcr.io/open-webui/open-webui:main
 #headscale/headscale:0.23.0
 #ghcr.io/tale/headplane:0.3.2
-ghcr.io/zitadel/zitadel:latest
-postgres:16-alpine
+#ghcr.io/zitadel/zitadel:latest
+#postgres:16-alpine
