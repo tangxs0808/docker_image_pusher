@@ -1,7 +1,8 @@
 #1panel/openresty:1.21.4.3-3-3-focal
 #ghcr.io/open-webui/open-webui:main
-mongo:5.0
-rocketchat/rocket.chat:latest
+#mongo:5.0
+#rocketchat/rocket.chat:latest
+lissy93/dashy:3.1.0
 #headscale/headscale:0.23.0
 #ghcr.io/tale/headplane:0.3.2
 #ghcr.io/zitadel/zitadel:latest
