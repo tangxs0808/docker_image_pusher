@@ -1,7 +1,8 @@
 #1panel/openresty:1.21.4.3-3-3-focal
 #ghcr.io/open-webui/open-webui:main
 #mongo:5.0
-svhd/logto:1.21.0
+casbin/casdoor:latest
+#svhd/logto:1.21.0
 #rocketchat/rocket.chat:latest
 #2fauth/2fauth:5.3.1
 #lissy93/dashy:3.1.0
