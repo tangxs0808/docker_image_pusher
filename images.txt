@@ -3,7 +3,8 @@
 #mongo:5.0
 #casbin/casdoor:latest
 #xhofe/alist:v3.37.4
-fredliang/derper
+badapple9/speedtest-x:latest
+#fredliang/derper
 #svhd/logto:1.21.0
 #rocketchat/rocket.chat:latest
 #2fauth/2fauth:5.3.1
